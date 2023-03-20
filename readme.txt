@@ -1,0 +1,1 @@
+Documentazione versione 0.1.0
